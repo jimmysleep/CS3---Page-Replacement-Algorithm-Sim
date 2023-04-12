@@ -21,3 +21,13 @@ if __name__ == "__main__":
         print('Usage: python paging.py [number of page frames]')
     else:
         main()
+
+
+def FIFO(size, pages):
+    return size
+
+def LRU(size, pages):
+    return size
+
+def OPT(size, pages):
+    return size
